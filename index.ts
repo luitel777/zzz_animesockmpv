@@ -1,4 +1,3 @@
-import net from 'net';
 import { $ } from 'bun';
 
 Bun.serve({
